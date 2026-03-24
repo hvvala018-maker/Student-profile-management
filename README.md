@@ -1,2 +1,2 @@
 # Student-profile-management
-MERN stack project for managing student profiles with CRUD operations.
+A MERN stack web application for managing student profiles with full CRUD (Create, Read, Update, Delete) functionality.
